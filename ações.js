@@ -7,3 +7,19 @@ function activate(e) {
 }
 
 document.addEventListener('click',activate,false);
+
+document.getElementById('BotaoCharlie').addEventListener('click', function() {
+    window.location.href = 'https://pt.wikipedia.org/wiki/Boa_Sorte,_Charlie!';
+});
+
+document.getElementById('BotaoPlace').addEventListener('click', function() {
+    window.location.href = 'https://www.netflix.com/br/title/80113701';
+});
+
+document.getElementById('BotaoJessie').addEventListener('click', function() {
+    window.location.href = 'https://pt.wikipedia.org/wiki/Jessie';
+})
+
+document.getElementById('Botao100').addEventListener('click', function() {
+    window.location.href = 'https://www.netflix.com/br/title/70283264';
+});
