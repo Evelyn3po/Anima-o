@@ -23,3 +23,11 @@ document.getElementById('BotaoJessie').addEventListener('click', function() {
 document.getElementById('Botao100').addEventListener('click', function() {
     window.location.href = 'https://www.netflix.com/br/title/70283264';
 });
+
+document.getElementById('BotaoPrision').addEventListener('click', function() {
+    window.location.href = 'https://www.primevideo.com/-/pt_PT/detail/Prison-Break---Em-Busca-Da-Verdade/0TELYTKZ6HZPV9AW7ASTG17W9R';
+});
+
+document.getElementById('BotaoAnne').addEventListener('click', function() {
+    window.location.href = 'https://www.netflix.com/br/title/80136311';
+});
